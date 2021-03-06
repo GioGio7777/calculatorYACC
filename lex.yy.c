@@ -78,7 +78,7 @@ typedef unsigned int flex_uint32_t;
 #endif
 #ifndef UINT16_MAX
 #define UINT16_MAX             (65535U)
-#endidf
+#endif
 #ifndef UINT32_MAX
 #define UINT32_MAX             (4294967295U)
 #endif
